@@ -1,0 +1,15 @@
+{
+  "k": 1,
+  "documents": [
+    {
+      "id": "a",
+      "score": 1,
+      "relevance": 3
+    },
+    {
+      "id": "b",
+      "score": 1,
+      "relevance": 0
+    }
+  ]
+}
